@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- ПРИМЕР структуры для автопубликации пинов Pinterest (RSS 2.0). Item ниже — ПРИМЕР, заменить реальными SFW-артами Галереи.
-     Pinterest требует: link каждого item на ПОДТВЕРЖДЁННЫЙ (claimed) домен сайта, картинка в enclosure/media:content. Замените https://artraccoonis-jpg.github.io на итоговый URL GitHub Pages. -->
-<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
-<channel>
-<title>ArtRaccoon Gallery</title>
-<link>https://https://artraccoonis-jpg.github.io/</link>
-<description>SFW аниме арты студии ArtRaccoon</description>
-<language>ru</language>
-<item>
-<title>[EXAMPLE] Девушка-кошка бариста — аниме арт | cat girl anime</title>
-<link>https://https://artraccoonis-jpg.github.io/art/example-1.html</link>
-<guid isPermaLink="false">example-1</guid>
-<description>[EXAMPLE] Девушка с кошачьими ушками за стойкой уютной кофейни. Аниме арт, neko girl, cozy aesthetic.</description>
-<pubDate>Tue, 20 Oct 2026 18:00:00 +0000</pubDate>
-<enclosure url="https://https://artraccoonis-jpg.github.io/img/art1.jpg" type="image/jpeg" length="0"/>
-<media:content url="https://https://artraccoonis-jpg.github.io/img/art1.jpg" medium="image" type="image/jpeg"/>
-</item>
-</channel>
-</rss>
+<rss version="2.0"><channel><title>ArtRaccoon Gallery</title><link>https://artraccoonis-jpg.github.io/</link><description>SFW anime art by ArtRaccoon studio</description><language>ru</language>
+<item><title>Неко-бариста в уютной кофейне</title><link>https://t.me/ArtRaccoon/2935</link><guid isPermaLink="false">https://artraccoonis-jpg.github.io/img/full/a01.jpg</guid><description>&lt;img src="https://artraccoonis-jpg.github.io/img/full/a01.jpg" alt="Неко-бариста в уютной кофейне"&gt;</description><enclosure url="https://artraccoonis-jpg.github.io/img/full/a01.jpg" type="image/jpeg" length="0"/></item>
+<item><title>Беловолосая неко на ночной улице</title><link>https://t.me/ArtRaccoon/2941</link><guid isPermaLink="false">https://artraccoonis-jpg.github.io/img/full/a02.jpg</guid><description>&lt;img src="https://artraccoonis-jpg.github.io/img/full/a02.jpg" alt="Беловолосая неко на ночной улице"&gt;</description><enclosure url="https://artraccoonis-jpg.github.io/img/full/a02.jpg" type="image/jpeg" length="0"/></item>
+<item><title>Неко в толстовке с кофе у окна</title><link>https://t.me/ArtRaccoon/2960</link><guid isPermaLink="false">https://artraccoonis-jpg.github.io/img/full/a03.jpg</guid><description>&lt;img src="https://artraccoonis-jpg.github.io/img/full/a03.jpg" alt="Неко в толстовке с кофе у окна"&gt;</description><enclosure url="https://artraccoonis-jpg.github.io/img/full/a03.jpg" type="image/jpeg" length="0"/></item>
+<item><title>Рыжая неко в шарфе над вечерним городом</title><link>https://t.me/ArtRaccoon/2970</link><guid isPermaLink="false">https://artraccoonis-jpg.github.io/img/full/a04.jpg</guid><description>&lt;img src="https://artraccoonis-jpg.github.io/img/full/a04.jpg" alt="Рыжая неко в шарфе над вечерним городом"&gt;</description><enclosure url="https://artraccoonis-jpg.github.io/img/full/a04.jpg" type="image/jpeg" length="0"/></item>
+<item><title>Неко с зонтом на осенней улице</title><link>https://t.me/ArtRaccoon/2949</link><guid isPermaLink="false">https://artraccoonis-jpg.github.io/img/full/a05.jpg</guid><description>&lt;img src="https://artraccoonis-jpg.github.io/img/full/a05.jpg" alt="Неко с зонтом на осенней улице"&gt;</description><enclosure url="https://artraccoonis-jpg.github.io/img/full/a05.jpg" type="image/jpeg" length="0"/></item>
+<item><title>Неко среди книжных полок</title><link>https://t.me/ArtRaccoon/2979</link><guid isPermaLink="false">https://artraccoonis-jpg.github.io/img/full/a06.jpg</guid><description>&lt;img src="https://artraccoonis-jpg.github.io/img/full/a06.jpg" alt="Неко среди книжных полок"&gt;</description><enclosure url="https://artraccoonis-jpg.github.io/img/full/a06.jpg" type="image/jpeg" length="0"/></item>
+<item><title>Осенний парк, скамейка и хвост</title><link>https://t.me/ArtRaccoon/2992</link><guid isPermaLink="false">https://artraccoonis-jpg.github.io/img/full/a07.jpg</guid><description>&lt;img src="https://artraccoonis-jpg.github.io/img/full/a07.jpg" alt="Осенний парк, скамейка и хвост"&gt;</description><enclosure url="https://artraccoonis-jpg.github.io/img/full/a07.jpg" type="image/jpeg" length="0"/></item>
+<item><title>Неко у витрины ночного магазина</title><link>https://t.me/ArtRaccoon/2999</link><guid isPermaLink="false">https://artraccoonis-jpg.github.io/img/full/a08.jpg</guid><description>&lt;img src="https://artraccoonis-jpg.github.io/img/full/a08.jpg" alt="Неко у витрины ночного магазина"&gt;</description><enclosure url="https://artraccoonis-jpg.github.io/img/full/a08.jpg" type="image/jpeg" length="0"/></item>
+<item><title>Неко в капюшоне на неоновой улице</title><link>https://t.me/ArtRaccoon/3006</link><guid isPermaLink="false">https://artraccoonis-jpg.github.io/img/full/a09.jpg</guid><description>&lt;img src="https://artraccoonis-jpg.github.io/img/full/a09.jpg" alt="Неко в капюшоне на неоновой улице"&gt;</description><enclosure url="https://artraccoonis-jpg.github.io/img/full/a09.jpg" type="image/jpeg" length="0"/></item>
+<item><title>Неко с багетом в городе</title><link>https://t.me/ArtRaccoon/3030</link><guid isPermaLink="false">https://artraccoonis-jpg.github.io/img/full/a10.jpg</guid><description>&lt;img src="https://artraccoonis-jpg.github.io/img/full/a10.jpg" alt="Неко с багетом в городе"&gt;</description><enclosure url="https://artraccoonis-jpg.github.io/img/full/a10.jpg" type="image/jpeg" length="0"/></item>
+<item><title>Неко в библиотеке</title><link>https://t.me/ArtRaccoon/3053</link><guid isPermaLink="false">https://artraccoonis-jpg.github.io/img/full/a11.jpg</guid><description>&lt;img src="https://artraccoonis-jpg.github.io/img/full/a11.jpg" alt="Неко в библиотеке"&gt;</description><enclosure url="https://artraccoonis-jpg.github.io/img/full/a11.jpg" type="image/jpeg" length="0"/></item>
+</channel></rss>
