@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- ПРИМЕР структуры для автопубликации пинов Pinterest (RSS 2.0). Item ниже — ПРИМЕР, заменить реальными SFW-артами Галереи.
+     Pinterest требует: link каждого item на ПОДТВЕРЖДЁННЫЙ (claimed) домен сайта, картинка в enclosure/media:content. Замените https://artraccoonis-jpg.github.io на итоговый URL GitHub Pages. -->
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+<channel>
+<title>ArtRaccoon Gallery</title>
+<link>https://https://artraccoonis-jpg.github.io/</link>
+<description>SFW аниме арты студии ArtRaccoon</description>
+<language>ru</language>
+<item>
+<title>[EXAMPLE] Девушка-кошка бариста — аниме арт | cat girl anime</title>
+<link>https://https://artraccoonis-jpg.github.io/art/example-1.html</link>
+<guid isPermaLink="false">example-1</guid>
+<description>[EXAMPLE] Девушка с кошачьими ушками за стойкой уютной кофейни. Аниме арт, neko girl, cozy aesthetic.</description>
+<pubDate>Tue, 20 Oct 2026 18:00:00 +0000</pubDate>
+<enclosure url="https://https://artraccoonis-jpg.github.io/img/art1.jpg" type="image/jpeg" length="0"/>
+<media:content url="https://https://artraccoonis-jpg.github.io/img/art1.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>
